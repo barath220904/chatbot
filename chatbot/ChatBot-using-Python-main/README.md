@@ -2,10 +2,8 @@
 - Hi, This is My project.
 - Create ChatBot Using Python
 - this project using python, nltk
-- Please visit my youtube channel for any updates
-- https://www.youtube.com/@Graduate-Hands-Tamil
 - website
-- http://vigneshgbe.unaux.com
+- https://barath007.netlify.app/
 - I’m looking to collaboration 
 - Follow Me on YouTube
 
